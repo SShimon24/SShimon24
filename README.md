@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning JS!
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on anything that can improve my skill
-- 📫 How to reach me simoun0240@gmail.com
+- 📫 How to reach me simoun2417@gmail.com
 
 <!---
 SShimon24/SShimon24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
